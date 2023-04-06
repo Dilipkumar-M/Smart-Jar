@@ -1,2 +1,1 @@
-# Smart-Jar
-IOT based project
+Smart Jar is an IOT based project using an hardware of Node MCUesp 8266 board, Ultrasonic sensor HC04.The quantity of a jar is observed through blynk app in the android. if it's quantity is less than 10% sends an text and the E-mail notifications to the end user.
